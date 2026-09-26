@@ -58,14 +58,15 @@ I'm a detail-oriented data annotator with **2 years of hands-on experience** lab
 #### 1. Vehicle Annotation in CVAT
 Bounding boxes on cars in a parking lot, with every object labeled and tracked in the CVAT object panel.
 
-<img src="images/06-cvat-car-annotation.png" alt="CVAT car annotation" width="100%">
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/36e54709-4c4c-4ad0-8d35-d80cba5bc77e" />
 
 <br>
 
 #### 2. Aerial Vehicle Detection
 Bounding boxes on vehicles in a top-down (drone / overhead) traffic view.
 
-<img src="images/04-aerial-vehicle-detection.png" alt="Aerial vehicle detection" width="40%">
+
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/469ea889-76bb-416e-8775-950c0aa34f33" />
 
 <br>
 
