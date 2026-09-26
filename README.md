@@ -73,14 +73,14 @@ Bounding boxes on vehicles in a top-down (drone / overhead) traffic view.
 #### 3. GUI Element Annotation
 Boxes and corner points on every interface element in a Windows screenshot (menus, buttons, dialog fields, taskbar). This type of data is used to train AI agents that operate computer screens.
 
-<img src="images/05-gui-element-annotation.png" alt="GUI element annotation" width="100%">
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/740e5bdf-98ec-4410-a93c-617a77cb61c3" />
 
 <br>
 
 #### 4. Polygon Segmentation
 A tight polygon outline around the subject against a complex, reflective water background.
 
-<img src="images/07-polygon-segmentation.png" alt="Polygon segmentation of a duck" width="70%">
+<img width="380" height="681" alt="Image" src="https://github.com/user-attachments/assets/e688a9fe-deb3-49d4-afd8-bc507b7a1fa3" />
 
 ---
 
@@ -89,10 +89,10 @@ A tight polygon outline around the subject against a complex, reflective water b
 
 | Keypoint Annotation | Object Detection |
 |---|---|
-| <img src="images/01-keypoint-annotation.png" alt="Keypoint annotation example" width="100%"> | <img src="images/02-bounding-box-detection.png" alt="Bounding box detection example" width="100%"> |
+| <img width="1561" height="887" alt="Image" src="https://github.com/user-attachments/assets/4e2651b6-1283-48d0-ab1c-0362278527fa" /> | <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e15741d0-684a-48e7-9d1f-a58d465ffcbc" /> |
 | Body and face keypoints on people and a dog, plus a bounding box on a bench. | Labeled boxes for person, dog, car, bicycle, lamp post, chair, plant and signboard. |
 
-<img src="images/03-segmentation.png" alt="Segmentation example: original vs annotated" width="100%">
+<img width="1014" height="776" alt="Image" src="https://github.com/user-attachments/assets/d83d4072-d0a0-49bf-bf67-83c9cd943e52" />
 
 *Segmentation example: original image (left) and pixel-level labels (right) for person, dog, car, bicycle, bench and tree.*
 
