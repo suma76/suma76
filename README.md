@@ -58,29 +58,28 @@ I'm a detail-oriented data annotator with **2 years of hands-on experience** lab
 #### 1. Vehicle Annotation in CVAT
 Bounding boxes on cars in a parking lot, with every object labeled and tracked in the CVAT object panel.
 
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/36e54709-4c4c-4ad0-8d35-d80cba5bc77e" />
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8353f516-09f4-4044-978f-7886f0a600fe" />
 <br>
 
 #### 2. Aerial Vehicle Detection
 Bounding boxes on vehicles in a top-down (drone / overhead) traffic view.
 
 
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/469ea889-76bb-416e-8775-950c0aa34f33" />
+<img width="380" height="681" alt="Image" src="https://github.com/user-attachments/assets/c3c70cc6-941e-43fe-b53a-9780161bf0bf" />
 
 <br>
 
 #### 3. GUI Element Annotation
 Boxes and corner points on every interface element in a Windows screenshot (menus, buttons, dialog fields, taskbar). This type of data is used to train AI agents that operate computer screens.
 
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/740e5bdf-98ec-4410-a93c-617a77cb61c3" />
+<img width="1561" height="887" alt="Image" src="https://github.com/user-attachments/assets/8eea542e-c171-452a-9557-121921301af9" />
 
 <br>
 
 #### 4. Polygon Segmentation
 A tight polygon outline around the subject against a complex, reflective water background.
 
-<img width="380" height="681" alt="Image" src="https://github.com/user-attachments/assets/e688a9fe-deb3-49d4-afd8-bc507b7a1fa3" />
+<img width="1014" height="776" alt="Image" src="https://github.com/user-attachments/assets/dfd434b2-814e-4f61-821e-ceb3157a005e" />
 
 ---
 
@@ -89,10 +88,10 @@ A tight polygon outline around the subject against a complex, reflective water b
 
 | Keypoint Annotation | Object Detection |
 |---|---|
-| <img width="1561" height="887" alt="Image" src="https://github.com/user-attachments/assets/4e2651b6-1283-48d0-ab1c-0362278527fa" /> | <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e15741d0-684a-48e7-9d1f-a58d465ffcbc" /> |
+| <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/b6555f4f-d95a-4322-aff3-b530a0c31cf8" /> | <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/ac2810b1-d52c-4f19-a260-14a43ae5493d" /> |
 | Body and face keypoints on people and a dog, plus a bounding box on a bench. | Labeled boxes for person, dog, car, bicycle, lamp post, chair, plant and signboard. |
 
-<img width="1014" height="776" alt="Image" src="https://github.com/user-attachments/assets/d83d4072-d0a0-49bf-bf67-83c9cd943e52" />
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/8f3fb9b7-d97a-49e6-8ad6-d5f55bcbed80" />
 
 *Segmentation example: original image (left) and pixel-level labels (right) for person, dog, car, bicycle, bench and tree.*
 
