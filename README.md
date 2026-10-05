@@ -103,17 +103,14 @@ A tight polygon outline around the subject against a complex, reflective water b
 
 <img width="1014" height="776" alt="Image" src="https://github.com/user-attachments/assets/dfd434b2-814e-4f61-821e-ceb3157a005e" />
 
-
-<br>
-
-#### 5. Polygon Segmentation – Pet Annotation
+####  Polygon Segmentation – Pet Annotation
 A precise polygon outline traced around a cat's head and face, separating the subject from a busy indoor background (cardboard box, plants, window light).
 
 <img width="412" height="726" alt="Image" src="https://github.com/user-attachments/assets/c5cbc810-ad7c-4c08-b246-2aa4b58f2a88" />
 
 <br>
 
-#### 6. Digit / Seven-Segment Display Annotation
+#### 5. Digit / Seven-Segment Display Annotation
 Bounding boxes and corner keypoints on individual digits of a seven-segment display, used to train models for automated meter or counter reading.
 
 <img width="737" height="341" alt="Image" src="https://github.com/user-attachments/assets/3193cfc1-3a51-4f7f-b52d-f12b682b1a99" />
