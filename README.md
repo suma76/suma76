@@ -67,6 +67,28 @@ Bounding boxes on vehicles in a top-down (drone / overhead) traffic view.
 
 <img width="380" height="681" alt="Image" src="https://github.com/user-attachments/assets/c3c70cc6-941e-43fe-b53a-9780161bf0bf" />
 
+### Aerial Vehicle Detection (CVAT)
+
+![Aerial vehicle annotation in CVAT]
+<img width="3946" height="2156" alt="Image" src="https://github.com/user-attachments/assets/b5934f1b-b3b7-4c2d-929d-90b0c87372bd" />
+
+**Task:** Detect and label every vehicle in a top-down (drone view) traffic image of a multi-lane road.
+
+**What I did**
+- Drew **37 bounding boxes** on vehicles, one box per object
+- Used **4 classes**: `car`, `truck`, `van`, `motorcycle`
+- Set up the label list in CVAT's constructor and colored boxes by label for easy checking
+- Kept boxes tight around each vehicle, including partly hidden ones under tree cover
+
+**Challenges**
+- Trees cover parts of the road and hide some vehicles, so I checked each lane carefully to avoid missing objects
+- Small vehicles and motorcycles from above are easy to confuse with vans or cars, so I used one consistent rule per class
+
+**Tools:** CVAT (rectangle tool, object panel, label constructor)
+
+**Use case:** Training data for traffic monitoring, drone analytics and smart-city object detection models.
+
+*Image source: Unsplash (Chuttersnap), used here for annotation demonstration only.*
 <br>
 
 #### 3. GUI Element Annotation
