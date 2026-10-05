@@ -69,7 +69,7 @@ Bounding boxes on vehicles in a top-down (drone / overhead) traffic view.
 
 ### Aerial Vehicle Detection (CVAT)
 
-![Aerial vehicle annotation in CVAT]
+
 <img width="3946" height="2156" alt="Image" src="https://github.com/user-attachments/assets/b5934f1b-b3b7-4c2d-929d-90b0c87372bd" />
 
 **Task:** Detect and label every vehicle in a top-down (drone view) traffic image of a multi-lane road.
